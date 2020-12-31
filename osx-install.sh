@@ -151,6 +151,7 @@ install_brew_tools () {
     brew_me_some rbenv
     brew_me_some reattach-to-user-namespace
     brew_me_some redis
+    brew_me_some restic
     brew_me_some selecta
     brew_me_some ssh-copy-id
     brew_me_some the_silver_searcher
